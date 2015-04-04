@@ -3,11 +3,12 @@ $(document).ready(function() {
     url: "data/routedata.json",
     dataType: "json",
     function(Data) {
-      var datalength = issueList.length;
       var waypoints_array;
       var placename, placelatitude,placelongitude;
 
       var WAYpoint = Data.waypoint_pos;
+      var datalength = WAYpoint.length;
+
 
       for(i=0; i<datalength; i++) {
         waypoints_array = WAYpoint[i].name;
