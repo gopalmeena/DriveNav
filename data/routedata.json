@@ -1,27 +1,28 @@
 {
-  "waypoint_pos": [
-  {"longitude": 17.983812,
-  "latitude": 79.530177,
-  "type": "waypoint",
-  "name": "NIT warangal, Telangana"
-  },
-
-  {"longitude": 17.968901,
-  "latitude": 79.594054,
-  "type": "waypoint",
-  "name": "MCPFC,warangal"
-  },
-
-  {"longitude": 17.988511,
-  "latitude": 79.531436,
-  "type": "waypoint",
-  "name": "DOMINOS, warangal"
-  },
-
-  {"longitude": 17.993409,
-  "latitude": 79.537917,
-  "type": "destination",
-  "name": "NIT warangal, Telangana"
-  }
-  ]
+   "waypoint_pos":[
+      {
+         "longitude":17.983812,
+         "latitude":79.530177,
+         "type":"waypoint",
+         "name":"NIT warangal, Telangana"
+      },
+      {
+         "longitude":17.968901,
+         "latitude":79.594054,
+         "type":"waypoint",
+         "name":"MCPFC,warangal"
+      },
+      {
+         "longitude":17.988511,
+         "latitude":79.531436,
+         "type":"waypoint",
+         "name":"DOMINOS, warangal"
+      },
+      {
+         "longitude":17.993409,
+         "latitude":79.537917,
+         "type":"destination",
+         "name":"NIT warangal, Telangana"
+      }
+   ]
 }
